@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <title>DOL</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="nict computer education">
+    <meta name="keyword" content="nict computer education">
+    <link rel="shortcut icon" href="images/logo1.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700%7CJosefin+Sans:600,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link href="css/materialize.css" rel="stylesheet">
+    <link href="css/bootstrap1.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+    <link href="css/style-mob.css" rel="stylesheet" /> 
+</head>
+<body>
+    <section>
+        <div class="ed-mob-menu">
+            <div class="ed-mob-menu-con">
+                <div class="ed-mm-left">
+                    <div class="wed-logo">
+                        <a href="index-2.html"><img src="images/logo.png" alt="" />
+						</a>
+                    </div>
+                </div>
+                <div class="ed-mm-right">
+                    <div class="ed-mm-menu">
+                        <a href="#!" class="ed-micon"><i class="fa fa-bars"></i></a>
+                        <div class="ed-mm-inn">
+                            <a href="#!" class="ed-mi-close"><i class="fa fa-times"></i></a>
+                            
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+  
+    <section>
+             <div class="ed-top">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="ed-com-t1-left">
+                            <ul>
+                                <li><a href="#">Contact: Kiran Kumar, Bangalore, Karnataka</a>
+                                </li>
+                                <li><a href="#">Phone: 7676312345</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ed-com-t1-right">
+                            <ul>
+                                <li><a href="about">About</a>
+                                </li>
+                                <li><a href="registrationform">Registration</a>
+                                </li>
+								<li><a href="takeassessment">Take Assessment</a>
+                                </li>
+                                <li><a href="viewresult">Result</a>
+                                </li>
+								<li><a href="postquerypublic">Post Qurey</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ed-com-t1-social">
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <div class="top-logo" data-spy="affix" data-offset-top="250">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="wed-logo">
+                            <a href="index-2.html"><img src="images/logo.png" alt="" />
+                            </a>
+                        </div>
+                        <div class="main-menu">
+                            <ul>
+                                <li><a href="index-2.html">Home</a>
+                                </li>
+                                <li class="about-menu">
+                                    <a href="adminlogin" class="mm-arr">Admin</a>
+                                   
+                                   
+                                </li>
+
+                                <li><a href="facultylogin">Faculty</a>
+                                </li>
+                                <li><a href="studentlogin">Student</a>
+                                </li>
+                                <li><a href="contact-us.html">Contact us</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="all-drop-down-menu">
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            
+            <div class="carousel-inner">
+                <div class="item slider1 active">
+                    <img src="images/slider/1.jpg" alt="">
+                    <div class="carousel-caption slider-con">
+                        <h2>Online Learning <span></span></h2>
+                        <p>Expand Your Career Opportunities with different platform</p>
+                        <a href="registrationform" class="bann-btn-1">REGISTER NOW</a><a href="takeassessment" class="bann-btn-2">Take Assessment</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="images/slider/2.jpg" alt="">
+                    <div class="carousel-caption slider-con">
+                        <h2>Online Learning<span> 2021</span></h2>
+                        <p>Expand Your Career Opportunities with different platform</p>
+                        <a href="#" class="bann-btn-1">REGISTER NOW</a><a href="takeassessment" class="bann-btn-2">Take Assessment</a>
+                    </div>
+                </div>
+                <div class="item">
+                    <img src="images/slider/3.jpg" alt="">
+                    <div class="carousel-caption slider-con">
+                        <h2 style="color:orange">Online <span>Learning</span></h2>
+                        <p style="color:#E83A14; font-weight: bold;">Expand Your Career Opportunities with different platform</p>
+                        <a href="#" class="bann-btn-1">REGISTER NOW</a><a href="takeassessment" class="bann-btn-2">Take Assessment</a>
+                    </div>
+                </div>
+            </div>
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                <i class="fa fa-chevron-left slider-arr"></i>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                <i class="fa fa-chevron-right slider-arr"></i>
+            </a>
+        </div>
+    </section>
+    <script src="js/main.min.js"></script>
+    <script src="js/bootstrap1.min.js"></script>
+    <script src="js/materialize.min.js"></script>
+    <script src="js/custom.js"></script>
+</body>
+</html>
